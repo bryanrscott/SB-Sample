@@ -2,13 +2,13 @@
 
 ## Session 3
 Samples and examples for an introduction to development training.  
-This session is on Markup and Bootstrap 5 HTML.  We have already briefly introduced Markdown, but we will be going just a little further with it today.  Then we will move onto doing some introductory web pages using the Bootstrap style library.   This is what we will be using in our group project "SOLLIC Anywhere"[^1] so getting familiar with is an important step.  
+This session is on Markup and Bootstrap 5 HTML.  We have already briefly introduced Markdown, but we will be going just a little further with it today.  Then we will move onto doing some introductory web pages using the Bootstrap style library. This is what we will be using in our group project "SOLIC Anywhere"[^1] so getting familiar with it is an important step.  
 
 Admin Points
-- This session has a markup file.   This is so you can revise anytime you like but also highlight any issue you would like to cover again. We are also interested if it helps better pace the remote work.
+- This session has a markup file.   This is so you can revise anytime you like but also highlight any issue you would like to cover again. We are also interested if it helps better pace the remote virtual training.
 - This markdown also demonstrates documenting (ie the lesson plan)
-- It might seem like we are not doing much code, but everything we are introducing you will be used in ePort Phase 2 or "SOLLIC Anywhere".  Github is storage and review mechanism.  Markup will be the format for technical documentation, and Bootstrap HTML will be how we make the "SOLLIC Anywhere" look OK without to much work. 
-- At this stage notepad / wordpad to show the level of detail. 
+- It might seem like we are not doing much coding at this point, but note that everything we are introducing here will be used in Phase 2 of the Noro ePort Project and "SOLIC Anywhere". Github is the storage and review mechanism. Markup will be the format for technical documentation, and Bootstrap HTML will be utilised to enhance the appearance of the "SOLIC Anywhere" project with minimal effort. 
+- At this stage, we can use notepad or other basic text editor to show the level of detail. 
 - Fridays at 2pm?
 
 
@@ -26,9 +26,9 @@ Admin Points
 
 ### MARKUP
 
-Today I really just want to everyone to do a practical as revision.   In your directory create a market.md file.  Put in a major heading of "Market Shopping" and under a smaller heading of saturday's date list 5 items that you could go to market for.   Then commit your changes as <strong>your name</strong> market items.  
+Today I really just want to get everyone to do a practical exercise as revision.   In your directory create a market.md file.  Put in a major heading of "Market Shopping" and under a smaller heading of saturday's date list 5 items that you could go to the market for. Then commit your changes as <strong><your name></strong> market items.  
 
-Once some else has committed their market list, edit your market.md file to include a link to their market list.  Commit your changes as <strong>your name</strong> market linkage.
+Once some else has committed their market list, edit your market.md file to include a link to their market list.  Commit your changes as <strong><your name></strong> market linkage.
 
 ### Boostrap
 
