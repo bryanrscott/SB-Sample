@@ -26,7 +26,7 @@ Admin Points
 
 ### MARKUP
 
-Today I really just want to everyone to do a practical as revision.   In your directory create a market.md file.  Put in a major heading of "Market Shopping" and under a smaller heading of saturday's date list 5 items that you could go to market for.   Then commit your changes as <your name> market items.  
+Today I really just want to everyone to do a practical as revision.   In your directory create a market.md file.  Put in a major heading of "Market Shopping" and under a smaller heading of saturday's date list 5 items that you could go to market for.   Then commit your changes as <strong>your name</strong> market items.  
 
 Once some else has committed their market list, edit your market.md file to include a link to their market list.  Commit your changes as <strong>your name</strong> market linkage.
 
