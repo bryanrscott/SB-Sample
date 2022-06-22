@@ -60,7 +60,10 @@ Demonstrate console.log and adding an error on the console.....
 
 ### Next Session Options
 - Code Editors - What Visual Studio brings.   More Bootstrap HTML and Github.
-- Starting Docker (will be a long one)
+- Starting Docker (will be a long one)  Homework (warning large downloads)
+  - docker pull mcr.microsoft.com/mssql/server:2022-latest  (or 2019)
+  - docker pull php:8.1-fpm-buster
+  - docker pull nginx
 
 
 
