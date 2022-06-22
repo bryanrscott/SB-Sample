@@ -37,11 +37,11 @@ Once some else has committed their market list, edit your market.md file to incl
 In your directory, create a folder called website1. 
 We are going to follow the ["Quick Start"](https://getbootstrap.com/docs/5.2/getting-started/introduction/#quick-start) in bootstrap documentation to create an index.html file.  Follow the three steps.  Just cut and paste into notepad and save the file.  Open in a browser, still farly plain that is ok.
 
-Commit your code.  Checkout someone elses, review what is happening in the repo.....
+Commit your code.  Checkout someone else's, review what is happening in the repo.....
 
-OK lets make it interesting.   An easy way is to borrow from the docs and examples.   Lets go to the [heroes](https://getbootstrap.com/docs/5.2/examples/heroes/) example and pick one of the six hero types.  Use it to update your index.html.   Customise your hero text for SOLLIC.  Demo correcting URL for images.
+OK let's make it interesting. An easy way is to borrow from the docs and examples. Let's go to the [heroes](https://getbootstrap.com/docs/5.2/examples/heroes/) example and pick one of the six hero types. Use it to update your <strong><em>index.html</em></strong> file. Customise your hero text for "SOLIC Anywhere". Demo correcting URL for images.
 
-commit your code.  review what is happening in the repository
+Commit your code. Review what is happening in the repository.
 
 Demonstrate browser resizing.  
 Demonstrate the inspect option 
@@ -50,18 +50,16 @@ Demonstrate the inspect option
 - console
 
 
-OK. Lets add a section to practice that again.   Lets go to the [feature](https://getbootstrap.com/docs/5.2/examples/features/) examples and select an example of features.   and add to below our hero.  Demo correcting inline SVG images.
+Next, let's add a section to practice that again. Let's go to the [feature](https://getbootstrap.com/docs/5.2/examples/features/) examples and select an example of the features, and add below our hero. Demo correcting inline SVG images.
 
-OK. Lets add some bells and whistles. Lets go to the [modal](https://getbootstrap.com/docs/5.2/components/modal/) section of the documentation.   and lets add a modal.   Start by just copying the example into the page.  make sure it works.   Now update the primary button in your hero to open the dialog and remove the orginal button that opened the dialog.  OK lets change the colour.
+Next, let's add some bells and whistles. Let's go to the [modal](https://getbootstrap.com/docs/5.2/components/modal/) section of the documentation, and try to add a modal. Start by just copying the example into the page, and make sure that it works. Now, update the primary button in your hero to open the dialog and remove the original button that opened the dialog. After that, try changing the colour to something you prefer.
 
-OK. More Bells and Whistles.  Tooltips and Popups.   Add a tooltip and a popup to the page as well.  Demonstrate adding script tag to the bottom to include initialisation code.
+Next, more bells and whistles. Tooltips and Popups. Add a tooltip and a popup to the page as well.Demonstrate adding a script tag to the bottom to include the initialisation code.
 
-Demonstrate console.log and adding an error on the console.....   
+Demonstrate <em>console.log</em> and adding an error on the console...   
 
 ### Next Session Options
-- Code Editors - What Visual Studio brings.   More Bootstrap HTML and Github.
-- Starting Docker (will be a long one)
+- Code Editors - What Visual Studio brings. More Bootstrap HTML and GitHub.
+- Introducing Docker (will be a long one)
 
-
-
-[^1]: I am really open to what to call it, and welcome suggestions.  I am not very imaginative.
+[^1]: I am really open to what to call it, and welcome suggestions. I am not very imaginative.
