@@ -7,7 +7,7 @@ This session is on Markup and Bootstrap 5 HTML.  We have already briefly introdu
 Admin Points
 - This session is a markdown file.   This is so you can revise anytime you like but also highlight any issue you would like to cover again. We are also interested if it helps better pace the remote virtual training.
 - This markdown also demonstrates documenting (ie the lesson plan)
-- It might seem like we are not doing much coding at this point, but note that everything we are introducing here will be used in Phase 2 of the Noro ePort Project and "SOLIC Anywhere". Github is the storage and review mechanism. Markup will be the format for technical documentation, and Bootstrap HTML will be utilised to enhance the appearance of the "SOLIC Anywhere" project with minimal effort. 
+- It might seem like we are not doing much coding at this point, but note that everything we are introducing here will be used in Phase 2 of the Noro ePort Project and "SOLIC Anywhere". Github is the storage and review mechanism. Markdown will be the format for technical documentation, and Bootstrap HTML will be utilised to enhance the appearance of the "SOLIC Anywhere" project with minimal effort. 
 - At this stage, we can use notepad or other basic text editor to show the level of detail. 
 - Fridays at 2pm?
 
