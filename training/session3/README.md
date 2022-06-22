@@ -2,7 +2,7 @@
 
 ## Session 3
 Samples and examples for an introduction to development training.  
-This session is on Markup and Bootstrap 5 HTML.  We have already briefly introduced Markdown, but we will be going just a little further with it today.  Then we will move onto doing some introductory web pages using the Bootstrap style library. This is what we will be using in our group project "SOLIC Anywhere"[^1] so getting familiar with it is an important step.  
+This session is on Markdown and Bootstrap 5 HTML.  We have already briefly introduced Markdown, but we will be going just a little further with it today.  Then we will move onto doing some introductory web pages using the Bootstrap style library. This is what we will be using in our group project "SOLIC Anywhere"[^1] so getting familiar with it is an important step.  
 
 Admin Points
 - This session is a markdown file.   This is so you can revise anytime you like but also highlight any issue you would like to cover again. We are also interested if it helps better pace the remote virtual training.
