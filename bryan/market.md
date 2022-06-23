@@ -10,7 +10,7 @@ This is a list of shopping as an example of writing in markdown.
 5. Lettuce
 
 ### Other Shopping Lists :
-* [Mendana](../../Mendana/market.md)
-* [Barry](../../barry/market.md)
+* Mendana
+* [Barry](../barry/market.md)
 * [Cornell](../../Cornell/market.md)
 
