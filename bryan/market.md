@@ -11,6 +11,6 @@ This is a list of shopping as an example of writing in markdown.
 
 ### Other Shopping Lists :
 * Mendana
-* [Barry](../barry/market.md)
+* [Barry](../barry/Market.md)
 * [Cornell](../../Cornell/market.md)
 
