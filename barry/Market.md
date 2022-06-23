@@ -8,5 +8,5 @@
 + 1 Heap Sweet potatoes
 
 ### Market lists
-+ [Cornell Market items]() 
-+ [Bryan Market items]() 
++ [Cornell Market items](../Cornell/Market.md) 
++ [Bryan Market items](../bryan/market.md) 
