@@ -104,7 +104,9 @@
         </div>
         <div>
           <h2>Featured title</h2>
-          <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+          <p>Paragraph of text beneath the heading to explain the <a href="#" data-bs-toggle="tooltip" title="Another tooltip">heading</a>. 
+            
+            We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
           <a href="#" class="btn btn-primary">
             Primary button
           </a>
@@ -149,7 +151,8 @@
     <script>
       const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]');
       const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl));
-      
+      const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+      const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
       console.log("Page Loaded");
     </script>
   </body>
