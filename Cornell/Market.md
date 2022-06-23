@@ -1,4 +1,4 @@
-# Bryan's Market Shopping
+# Cornell's  Market Shopping
 
 This is a list of shopping as an example of writing in markdown.
 
@@ -10,7 +10,6 @@ This is a list of shopping as an example of writing in markdown.
 5. Lettuce
 
 ### Other Shopping Lists :
-* Mendana
-* [Barry](../barry/Market.md)
-* [Cornell](../Cornell/Market.md)
 
+* [Barry](../../barry/Market.md)
+* [Cornell](../../Cornell/Market.md)

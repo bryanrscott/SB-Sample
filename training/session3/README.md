@@ -30,7 +30,7 @@ Today I really just want to get everyone to do a practical exercise as revision.
 
 Once some else has committed their market list, edit your market.md file to include a link to their market list.  Commit your changes as <strong>\*your name\*</strong> market linkage.   Make sure your link works by browsing online.
 
-### Boostrap
+### Bootstrap
 
 Developing for the WEB requires understanding many things, one of the base items is HTML. This comes with practice and exposure. When starting with HTML there are a few options about where to start.
 
