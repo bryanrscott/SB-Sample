@@ -21,10 +21,10 @@ Admin Points
   - .gitignore
   - Issues, tagging/closing issues to commit
 - Markdown for documentation inside Github 
-  - [Markup Reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+  - [Markdown Reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
-### MARKUP
+### MARKDOWN
 
 Today I really just want to get everyone to do a practical exercise as revision.   In your directory create a market.md file.  Put in a major heading of "Market Shopping" and under a smaller heading of saturday's date list 5 items that you could go to the market for. Then commit your changes as <strong>\*your name\*</strong> market items.  
 
@@ -66,6 +66,9 @@ Demonstrate <em>console.log</em> and adding an error on the console...
 
 ### Next Session Options
 - Code Editors - What Visual Studio brings.   More Bootstrap HTML and Github.
-- Starting Docker (will be a long one)
+- Starting Docker (will be a long one)  Homework (warning large downloads)
+  - docker pull mcr.microsoft.com/mssql/server:2022-latest  (or 2019)
+  - docker pull php:8.1-fpm-buster
+  - docker pull nginx
 
 [^1]: I am really open to what to call it, and welcome suggestions. I am not very imaginative.
