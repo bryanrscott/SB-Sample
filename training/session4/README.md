@@ -39,8 +39,8 @@ For todays scenario we will assume our development project only has a single Mic
 
 ##### Projects
 Here are the projects for this session
-1. [Project 1](./project1/README.md)
-2. dd
+- [Project 1](./project1/README.md)
+- [Project 2](./project2/README.md)
 
 
 
