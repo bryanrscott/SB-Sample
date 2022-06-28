@@ -5,6 +5,7 @@ Samples and examples for an introduction to development training.
 This session is on using Docker to provide MSSQL Server
 
 ## Admin
+- Info catchup with Edmond.
 - hopefully everyone has done a 
   - docker pull mcr.microsoft.com/mssql/server:2022-latest
 - Need to ask is anyone is running sql server as a service on their laptop?
@@ -12,6 +13,8 @@ This session is on using Docker to provide MSSQL Server
 
 #### Docker
 Docker is a commercial product, but I am using as a synoynm for "Development Virtual Machines".   Technically docker is a virtual containers on possibly a virtual machine.  But we are discussing development not infrastructure so will not be so specific.
+
+Why do ICTSU run so many VM's?
 
 Important differences
 - Normally not a machine, but a function or service. (web server + database server)
