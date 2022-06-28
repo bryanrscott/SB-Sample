@@ -33,8 +33,6 @@ $ docker-compose down
 ```
 Alternatively you can use the docker dashboard and the stop button.
 
-DEMO : Upgrade in place.
-
 You can also use the dashboard to do other tasks, remove containers and volumes
 https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
 ```
@@ -43,6 +41,17 @@ docker ps -a
 docker volume ls
 docker volume rm project1_database-data
 ```
+
+##### DEMO : Docker Dashboard
+##### DEMO : Upgrade in place to SQL Server 2022.
+##### DEMO : Remove volume
+
+.env files are places you can define parameters that are local.   Importantly they generally should not be committed to git, but should be in the .gitignore list.
+
+##### DEMO : GITHUB repository settings .  manual edit of .gitignore
+
+.env files are a known place to store environmental variables.   You can then reference the variable in the docker-compose.yml file.   An example is DB_PASSWORD.   copy .env.sample to .env, 
+
 
 
 

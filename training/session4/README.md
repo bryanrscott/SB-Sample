@@ -29,6 +29,10 @@ Docker runs on your computer and provides the hosting of the various services.  
 
 Now you can do a lot with the docker command itself, but we are going to focus on using docker-compose because it is focused on using configuration files for setting rather than command line options.  This makes it perfect for the work we will do.
 
+Generally because a docker compose setup is pretty static it is not often you need to create from scratch.   This means the most important thing to learn today 
+- docker-compose up
+- environment settings
+
 ##### Scenario
 For todays scenario we will assume our development project only has a single Microsoft SQL Server.  Our next session will build on this to add more elements that we will use in the "SOLLIC Anywhere" project.  But for now just one service.
 
