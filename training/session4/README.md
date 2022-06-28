@@ -42,6 +42,7 @@ Here are the projects for this session
 - [Project 1](./project1/README.md)
 - [Project 2](./project2/README.md)
 
-
+##### Next Week
+Lets setup the docker environment for "SOLLIC Anywhere"
 
 
