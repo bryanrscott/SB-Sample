@@ -13,7 +13,7 @@ Building onto project one, lets run the same requirements, but with some initial
 ##### Restore SOLLIC
 [reference](https://docs.microsoft.com/en-us/sql/linux/tutorial-restore-backup-in-sql-server-container?view=sql-server-ver16)
 (slightly different for windows)
-
+```
 docker exec -it project2_sqlserver_1 mkdir /var/opt/mssql/backup
 docker cp ~/Documents/sollic/LICDATA_Backup_089622.bak project2_sqlserver_1:/var/opt/mssql/backup
 
@@ -25,3 +25,4 @@ docker exec -it project2_sqlserver_1 /opt/mssql-tools/bin/sqlcmd -S localhost \
 docker exec -it project2_sqlserver_1 /opt/mssql-tools/bin/sqlcmd \
 -S localhost -U SA -P '<YourNewStrong!Passw0rd>' \
 -Q 'RESTORE DATABASE licdata FROM DISK = "/var/opt/mssql/backup/LICDATA_Backup_089622.bak" WITH MOVE "LicData" TO "/var/opt/mssql/data/licdata.mdf", MOVE "LicData_log" TO "/var/opt/mssql/data/licdata_log.ldf"'
+```
