@@ -50,7 +50,7 @@ docker volume rm project1_database-data
 
 ##### DEMO : GITHUB repository settings .  manual edit of .gitignore
 
-.env files are a known place to store environmental variables.   You can then reference the variable in the docker-compose.yml file.   An example is DB_PASSWORD.   copy .env.sample to .env, 
+.env files are a known place to store environmental variables.   You can then reference the variable in the docker-compose.yml file.   An example is DB_PASSWORD.   copy .env.sample to .env, edit .env and restart your environment.
 
 
 
