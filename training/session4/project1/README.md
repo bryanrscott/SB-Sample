@@ -22,7 +22,7 @@ Reviewing the Docker Compose YAML file (*docker-composer.yml*)
 
 To start containers, open the command prompt, navigate to the training folder *~/SB-Sample/training/session4/project1/* then type the following command:
 ```
-$ docker-compose up
+$ docker-compose up -d
 ```
 
 Once finished starting up you should be able to connect to the system using the details from the *docker-compose.yml* file. Use SQL Management Studio or your preferred database client to connect.
