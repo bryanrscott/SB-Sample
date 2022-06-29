@@ -2,30 +2,30 @@
 
 ## [Session 4](../README.md) - Project 1
 
-Using simple project.  Intended to demonstrate
+Using a simple project to demonstrate:
 - Markup for a README.md file
 - simple docker compose file for a Microsoft SQL server service
 
 Tasks
-- [x] Generate readme file
-- [ ] Everyone checkout and create a README.md and commit
-- [ ] review docker-compose file identify the services provided
-- [ ] connecting to database using local ms sql server management studio
-- [ ] upgrade sql server version
-- [ ] enable .env
+- [x] Generate a README.md file for this session
+- [ ] Everyone checkout and create a README.md and commit the changes.
+- [ ] Review the *docker-compose.yml* file and try to identify the services provided.
+- [ ] Connect to database using local MS SQL Server Management Studio
+- [ ] Upgrade SQL Server version
+- [ ] Enable .env
 
-Reviewing the Docker Compose File
-- Notice LICENSE file.  Clear and open.  
-- Just one service MS SQL SERVER 2019.  and one volume to store the data.
+Reviewing the Docker Compose YAML file (*docker-composer.yml*)
+- Notice the LICENSE.md file - clear and open.  
+- Just one service MS SQL SERVER 2019 and one volume to store the data.
 - Set some parameters to customise the server
 - Ports is defining port forwarding as such "service port : localhost port" so in this instance 
 
-To start containers
+To start containers, open the command prompt, navigate to the training folder *~/SB-Sample/training/session4/project1/* then type the following command:
 ```
 $ docker-compose up
 ```
 
-Once finished starting up you should be able to connect to the system using the details from the docker-compose.yml file.  Use SQL Management Studio or other client to connect.
+Once finished starting up you should be able to connect to the system using the details from the *docker-compose.yml* file. Use SQL Management Studio or your preferred database client to connect.
 
 To Stop Containers 
 ```
