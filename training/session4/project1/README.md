@@ -8,7 +8,8 @@ Using a simple project to demonstrate:
 
 Tasks
 - [x] Generate a README.md file for this session
-- [ ] Everyone checkout and create a README.md and commit the changes.
+- [x] Everyone checkout and create a README.md and commit the changes.
+- [ ] Copy the project1 directory to your directory and commit the changes.
 - [ ] Review the *docker-compose.yml* file and try to identify the services provided.
 - [ ] Connect to database using local MS SQL Server Management Studio
 - [ ] Upgrade SQL Server version
