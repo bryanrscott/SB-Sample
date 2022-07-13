@@ -10,7 +10,7 @@ Tasks
 - [x] Generate a README.md file for this session
 - [x] Everyone checkout and create a README.md and commit the changes.
 - [ ] Copy the project1 directory to your directory and commit the changes.
-- [ ] Review the *docker-compose.yml* file and try to identify the services provided.
+- [ ] Review the *docker-compose.yml* file and to identify the services provided, confirm the SQL Server Version
 - [ ] Connect to database using local MS SQL Server Management Studio
 - [ ] Upgrade SQL Server version
 - [ ] Enable .env
