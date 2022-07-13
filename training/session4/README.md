@@ -40,9 +40,9 @@ Some Other Facts
 Now you can do a lot with the Docker command itself, but we are going to focus on using docker-compose because it is focused on using configuration files for setting rather than command line options. The configuration file is what documents a setup.
 
 Generally because a docker compose setup is pretty static, it is not often that you will need to create it from scratch. This means the most important thing to learn today 
-- docker-compose up
-- docker-compose.yml
-- environment settings
+- docker-compose up : The command to start docker process for a project
+- docker-compose.yml : The docker configuration file for a project
+- .env : The environment settings for a project
 
 ##### Scenario
 For today's scenario, we will assume our development project only has a single Microsoft SQL Server. Our next session will build on this to add more elements that we'll use in the "SOLIC Anywhere" project. But for now just a simple database service.
