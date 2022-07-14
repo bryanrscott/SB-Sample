@@ -14,9 +14,9 @@ This session is on using Docker to provide MSSQL Server
 #### Docker
 Docker is a commercial product, but I'm using it simply as a synonym for "Development Virtual Machines". Technically, Docker is a virtual containers on possibly a virtual machine. But we are discussing development not infrastructure so will not be so specific.
 
-Why does ICTSU run so many VMs?
+Why does ICTSU run so many VMs?  
 
-Important differences
+Important differences 
 - Normally not a machine, but a function or service. (web server + database server)
 - Generally treated as disposable
 - Generally NO backups
@@ -28,13 +28,21 @@ So why use Docker in the development cycle
 - Documents system requirements and can be included in git repository
 - Provides a way to specify and manage development settings or environment
 
-Docker runs on your computer and provides the hosting of the various services. Some support features include "Docker Dashboard".  
+Downsides 
+- Getting started with Docker can take longer initially
 
-Now you can do a lot with the Docker command itself, but we are going to focus on using docker-compose because it is focused on using configuration files for setting rather than command line options. This makes it perfect for the work we will do.
+Some Other Facts
+- Docker runs containers (Virtual Machines) in two command forms
+  - The command docker and is for instantaneous commands
+  - The command docker-compose which uses a configuration file
+- Docker runs on your computer and provides the hosting of the various services. Some support features include "Docker Dashboard".  
+
+Now you can do a lot with the Docker command itself, but we are going to focus on using docker-compose because it is focused on using configuration files for setting rather than command line options. The configuration file is what documents a setup.
 
 Generally because a docker compose setup is pretty static, it is not often that you will need to create it from scratch. This means the most important thing to learn today 
-- docker-compose up
-- environment settings
+- docker-compose up : The command to start docker process for a project
+- docker-compose.yml : The docker configuration file for a project
+- .env : The environment settings for a project
 
 ##### Scenario
 For today's scenario, we will assume our development project only has a single Microsoft SQL Server. Our next session will build on this to add more elements that we'll use in the "SOLIC Anywhere" project. But for now just a simple database service.
