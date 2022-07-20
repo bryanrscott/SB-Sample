@@ -22,6 +22,7 @@ Admin Points
   - Issues, tagging/closing issues to commit
 - Markdown for documentation inside Github 
   - [Markdown Reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+  - [Self Paced Tutorial](https://commonmark.org/help/tutorial/index.html)
 
 
 ### MARKDOWN
