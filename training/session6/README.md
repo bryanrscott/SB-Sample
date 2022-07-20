@@ -25,7 +25,7 @@ into html files for the browser.   So we can have our application serve the plai
 
 To do that we will need to create a few things.
 
-1. ROUTE : Tells the system what url and request type to respond to.  GET,POST,PATCH,DELETE
+1. ROUTE : Tells the system what url and request type to respond to.  GET,POST,PATCH,PUT,DELETE
 2. CONTROLLER : tells the system what to respond with, calls the view
 3. VIEW : The HTML
 
