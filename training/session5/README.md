@@ -10,6 +10,20 @@ This session is on the base application for "SOLLIC Anywhere"
 - Today will be informal, working through session 4 (Docker intro) and this session.
 - Also have a session with feral, just project general info from FFA side
 
+#### Starting Up
+- we will actually start with revision / completion of session 4
+- Then in this session we will start to utilise a base project and actually start looking 
+at "SOLLIC Anywhere" by getting the data ready
+- Then if time permits, because we are not sure we will move into session 6.  In this session
+we will look at creating a web page on the server, and then introduce the basic elements for 
+a CRUD system for a table
+- As everyone will be progressing differently that is fine.   But if you are ahead you have a couple
+of options
+  - Work with someone who has not yet finished,  practise is a good thing 
+  - Connect the TUFLIC access frontend, to the Docker database
+  - Explore the existing TUFLIC access frontend end, and map the navigation paths to different parts of the application
+  - 
+
 #### Laravel Base Project
 Lets get the first app running....
 ```
@@ -55,7 +69,7 @@ Walk through sollic_vessel_types migration.  Noting
 Walk through sollic_vessels migration
 
 Demo conversion.  Copy existing migration, rename file, rename class, minimise table, adjust tablename
- and then add in the columns.   
+ and then add in the columns.   An easy way to get all the column names and types is to use the script
 
 php artisan migrate:refresh --seed
 
@@ -83,6 +97,6 @@ Here are the projects for this session
 - [Project 2a](https://github.com/ffagithub/sb-ictsu/blob/development/project2a/README.md)
 
 ##### Next Week
-Let's set up the docker environment for "SOLIC Anywhere"...
+Models and CRUD for "SOLIC Anywhere"...
 
 
