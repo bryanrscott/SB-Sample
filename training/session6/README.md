@@ -41,7 +41,8 @@ OK everyone create your profile.
   '/static/profile2/{name}'
 
 ### Model
-   Lets create a model for 
+   Lets create a model for table.  Why create.  Abstracts 
+
 ### View Page.
 
 ### CRUD Pages
