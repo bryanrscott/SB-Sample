@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+set e
 
 if [ "$1" = '/opt/mssql/bin/sqlservr' ]; then
   if [ -f /tmp/app-initialized ]; then
