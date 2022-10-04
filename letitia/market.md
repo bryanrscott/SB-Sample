@@ -6,6 +6,3 @@
 + Mango
 + Pineapple
 + Watermelon
-
-+ [Cornell Market items](../Cornell/Market.md) 
-+ [Bryan Market items](../bryan/market.md) 
