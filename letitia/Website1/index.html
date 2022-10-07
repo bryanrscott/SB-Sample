@@ -22,10 +22,11 @@
         <h1 class="display-4 fw-bold lh-1">SOLIC Anywhere</h1>
         <p class="lead">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
-          <!-- Button trigger modal -->
-	<button type="button" class="btn btn-warning btn-lg px-4" data-bs-toggle="modal" data-bs-target="#exampleModal">
+          <!-- Button trigger modal & Button Popover -->
+	<button type="button" class="btn btn-warning btn-lg px-4" data-bs-toggle="modal" data-bs-target="#exampleModal" data-bs-toggle="popover" title="This is the Primary Button. Click on it!">
   	Primary
 	</button>
+
 	<button type="button" class="btn btn-outline-secondary btn-lg px-4">Default</button>
         </div>
       </div>
@@ -89,7 +90,8 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        ...Hello World! Is this is the beginning of the end?
+        <a href="#" data-bs-toggle="tooltip" title="Tooltip on Hover">Hello World!</a>
+	Is this the beginning of the end?	
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -98,3 +100,14 @@
     </div>
   </div>
 </div>
+
+<!-- Tooltips & Popovers -->
+
+<!-- <div class="modal-body">
+  <h2 class="fs-5">Popover in a modal</h2>
+  <p>This <a href="#" role="button" class="btn btn-success" data-bs-toggle="popover" title="Popover title" data-bs-content="Popover body content is set in this attribute.">button</a> triggers a popover on click.</p>
+  <hr>
+  <h2 class="fs-5">Tooltips in a modal</h2>
+  <p><a href="#" data-bs-toggle="tooltip" title="Tooltip">This link</a> and <a href="#" data-bs-toggle="tooltip" title="Tooltip">that link</a> have tooltips on hover.</p>
+</div>
+-->
